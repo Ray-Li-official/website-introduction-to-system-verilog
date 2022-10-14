@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite_introduction_to_system_verilog=self.webpackChunkwebsite_introduction_to_system_verilog||[]).push([[260],{4677:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/website-introduction-to-system-verilog/blog/tags/facebook","allTagsPath":"/website-introduction-to-system-verilog/blog/tags","count":1}')}}]);

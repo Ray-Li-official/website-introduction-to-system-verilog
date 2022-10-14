@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwebsite_introduction_to_system_verilog=self.webpackChunkwebsite_introduction_to_system_verilog||[]).push([[5982],{5618:t=>{t.exports=JSON.parse('{"permalink":"/website-introduction-to-system-verilog/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
